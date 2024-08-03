@@ -154,6 +154,7 @@ The prevalence of neurotic and immature defense mechanisms suggests that the nar
 Understanding these defense mechanisms provides insight into the narrator's psychological state and the universal human struggle to cope with complex emotions and societal pressures.
 
 Citations:
+
  [1]: https://www.academia.edu/41921006/BEHIND_METAPHORS_A_STUDY_ON_POETRY_USED_AS_A_FORM_OF_SUBLIMATION_AND_HOW_IT_IS_AN_EFFECTIVE_DEFENSE_MECHANISM
  
  [2]: https://www.psychologytoday.com/intl/blog/fulfillment-any-age/201110/the-essential-guide-defense-mechanisms
