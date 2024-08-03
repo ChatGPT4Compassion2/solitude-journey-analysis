@@ -1,4 +1,4 @@
-
+[![enter image description here][1]][1]
 
 https://www.perplexity.ai/search/if-possible-analysis-it-as-psy-T8e51OjfQqGcw_e9Z63yAA
 
@@ -61,3 +61,6 @@ This part of the poem expresses a desire for catharsis and reconnection with sim
 The poem continues to explore themes of isolation, simplicity, and a rejection of modern society, culminating in a powerful expression of disillusionment with urban life and a yearning for authentic, natural experiences.
 
 This analysis reveals a complex psychological landscape, where the desire for escape intertwines with a need for self-discovery, healing, and reconnection with a more genuine way of living.
+
+
+  [1]: https://i.sstatic.net/kECm4KUb.jpg
